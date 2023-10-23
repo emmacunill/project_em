@@ -2,6 +2,8 @@
 
 # OVERVIEW
 
+https://www.canva.com/design/DAFyF6kBUXE/w10cTbYW8N0NeiWTxkI5ow/edit?utm_content=DAFyF6kBUXE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 This aim of this project is to clean and format a dataset containing information about shark attacks.
 For afterwords, analyze the data to produce visualizations that will either prove or disprove hypotheses. 
 
@@ -69,7 +71,7 @@ Let's get more specific and see only data on the activities from the last 50 yea
 
 ![image](https://github.com/emmacunill/project_em/blob/main/images/activities_years.png?raw=true)
 
-In perspective, we can see a decrease on the maybe considered more "survival" colum, fishing. And an increase of the "surf" column. But what also caught my attention is the shark interacting accidents as neither decreases or increases, so I want to check if that is because they are mostly concentrated recently or they're equally divided throughout the years.
+In perspective, we can see a decrease on the maybe considered more "survival" colum, fishing. And an increase of the "surf" column. But what also caught my attention is the shark interacting accidents has neither decreases or increases, so I want to check if that is because they are mostly concentrated recently or they're equally divided throughout the years.
 
 ![image](https://github.com/emmacunill/project_em/blob/main/images/shark_int_years.jpg?raw=true)
 
@@ -89,7 +91,7 @@ Is it always more or less the same pattern or is it diverse?
 
 ![image](https://github.com/emmacunill/project_em/blob/main/images/years_sex.jpg?raw=true)
 
-As we can see from the plot, men have always been the wonners of getting attacked by sharks.
+As we can see from the plot, men have always been the winners of getting attacked by sharks.
 
 Now let's also check if we can extract more information from the age and the gender. 
 
