@@ -34,6 +34,9 @@ For afterwords, analyze the data to produce visualizations that will either prov
 
 1. Are sharks getting tired of attacking, or are humans getting more annoying?
 
+![scatterplot](https://github.com/emmacunill/project_em/blob/main/images/scatter_attacks_years.jpg?raw=true)
+
+
 
 
 
