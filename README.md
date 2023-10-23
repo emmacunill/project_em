@@ -53,6 +53,8 @@ To be able to give response on which of our 4 hypothesis is true, we still need 
 Let's understand why the sharks are not only not getting, tired, but getting fiercer.
 
 
+
+
 **2. If they're not getting tired, why is that?**
 
 Shall we take a look at the activities people were doing when the attackes occurred?
@@ -74,6 +76,8 @@ In perspective, we can see a decrease on the maybe considered more "survival" co
 We can see that most of the shark interacting attacks are on increase in recent years. So maybe the hypothesis that the sense of peril has changed might also be true. Also meaning that humans are getting more annoying. 
 
 But is it all humans or just a fraction?
+
+
 
 **3.Are men more attaked than women or the contrary?**
 
@@ -115,5 +119,5 @@ At least 75% of the shark interactinc¡g attacks are by men. Let's see how many 
 
 # CONCLUSIONS
 
-Seing that a great number of attacks are provoked, and all the other data we analized: We can definitely say that sharks are not getting tired, they're just getting angrier as we humans change our lifestyle, and become more annoying, by getting stupider, mostly men.
+Seing that a great number of attacks are provoked, and all the other data we analized: We can definitely say that sharks are not getting tired, they're just getting angrier as we humans change our lifestyle, and become more annoying, by getting more stupid, mostly men.
 
