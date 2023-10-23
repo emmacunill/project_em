@@ -59,7 +59,13 @@ Shall we take a look at the activities people were doing when the attackes occur
 
 The answer is obviously, YES, WE SHALL!! 
 
-![scatterplot](https://github.com/emmacunill/project_em/blob/main/images/hist_attacks_years.png?raw=true)
+![scatterplot](https://github.com/emmacunill/project_em/blob/main/images/activities.png?raw=true)
+
+From the data we get from the graphic, we can assume that the great mass of the attacks come from lifestyle. 
+
+Let's get more specific and see only data on the activities from the last 50 years.
+
+![scatterplot](https://github.com/emmacunill/project_em/blob/main/images/activities.png?raw=true)
 
 
 
